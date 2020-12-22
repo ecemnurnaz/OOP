@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\bin\Debug\OOP_Intro.exe.config
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\bin\Debug\OOP_Intro.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\bin\Debug\OOP_Intro.pdb
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\obj\Debug\OOP_Intro.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\obj\Debug\OOP_Intro.Form1.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\obj\Debug\OOP_Intro.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\obj\Debug\OOP_Intro.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\obj\Debug\OOP_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\obj\Debug\OOP_Intro.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\2-OOP\21.12\OOP_Intro\OOP_Intro\obj\Debug\OOP_Intro.pdb
