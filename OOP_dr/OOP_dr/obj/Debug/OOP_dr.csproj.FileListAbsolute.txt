@@ -1,0 +1,10 @@
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\obj\Debug\OOP_dr.csprojAssemblyReference.cache
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\obj\Debug\OOP_dr.Form1.resources
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\obj\Debug\OOP_dr.Properties.Resources.resources
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\obj\Debug\OOP_dr.csproj.GenerateResource.cache
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\obj\Debug\OOP_dr.csproj.CoreCompileInputs.cache
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\bin\Debug\OOP_dr.exe.config
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\bin\Debug\OOP_dr.exe
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\bin\Debug\OOP_dr.pdb
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\obj\Debug\OOP_dr.exe
+C:\Users\ecem3\OneDrive\Masaüstü\OOP_dr\OOP_dr\obj\Debug\OOP_dr.pdb
