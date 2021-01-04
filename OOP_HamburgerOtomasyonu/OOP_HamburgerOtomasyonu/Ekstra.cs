@@ -6,14 +6,25 @@ using System.Threading.Tasks;
 
 namespace OOP_HamburgerOtomasyonu
 {
-    public class Ekstra
+    public class Ekstra : IEkstra
     {
         public string Adi { get; set; }
         public decimal Fiyat { get; set; }
+
+        public void Ekle(Ekstra ekstra)
+        {
+            Database.ekstraListesi.Add(ekstra);
+        }
+
+        public List<Ekstra> Listele()
+        {
+            return Database.ekstraListesi.ToList();
+        }
         public override string ToString()
         {
-            return Adi;
+            return $"{Adi} {Fiyat}";
         }
+        
 
     }
 }

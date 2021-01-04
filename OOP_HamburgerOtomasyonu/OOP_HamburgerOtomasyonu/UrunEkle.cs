@@ -17,21 +17,25 @@ namespace OOP_HamburgerOtomasyonu
             InitializeComponent();
         }
 
-        List<Menu> menuler = new List<Menu>();
+
+
 
         public void btnKaydet_Click(object sender, EventArgs e)
         {
             Menu menu = new Menu();
-
             menu.Adi = txtMenu.Text;
             menu.Fiyat = nudFiyat.Value;
-            menuler.Add(menu);
 
-            
-            //cmbMenu.DataSource = menuler.ToList();
-            //menu.Adi = cmbMenu.SelectedItem.ToString();
+            menu.Ekle(menu);
+
+
+
+
         }
 
-       
+        private void UrunEkle_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

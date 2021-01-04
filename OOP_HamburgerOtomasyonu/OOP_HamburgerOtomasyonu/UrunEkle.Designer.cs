@@ -114,7 +114,7 @@ namespace OOP_HamburgerOtomasyonu
             this.Name = "UrunEkle";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "UrunEkle";
-
+            this.Load += new System.EventHandler(this.UrunEkle_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudFiyat)).EndInit();

@@ -19,15 +19,13 @@ namespace OOP_HamburgerOtomasyonu
 
         List<Ekstra> ekstralar = new List<Ekstra>();
 
-        
-
         public void btnEkstraKaydet_Click(object sender, EventArgs e)
         {
             Ekstra ekstra = new Ekstra();
 
             ekstra.Adi = txtEkstra.Text;
             ekstra.Fiyat = nudEkstraFiyat.Value;
-            ekstralar.Add(ekstra);
+            ekstra.Ekle(ekstra);
 
         }
 
